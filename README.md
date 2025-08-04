@@ -24,7 +24,7 @@ A simple and customizable invoice generator built with **Python** using the ligh
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/your-username/invoice-generator.git](https://github.com/MohamedOsama011/invoice-generator.git)
+git clone https://github.com/MohamedOsama011/invoice-generator.git
 cd invoice-generator
 pip install fpdf
 ```
